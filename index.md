@@ -25,5 +25,8 @@ Uygulama ile ilgili yaşadığınız herhangi bir problemi veya görüş ve öne
 
 
 <p align="center">
+Follow us: <a href="https://twitter.com/icatstudios">@icatstudios</a>
+<br />
+<br />
 © iCatStudios 2018
 </p>
