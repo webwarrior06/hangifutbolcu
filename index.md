@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Hangi Futbolcu - Fenerbahçe
 
-You can use the [editor on GitHub](https://github.com/webwarrior06/hangifutbolcu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Uygulama içi görüntüler
+![Image](https://github.com/webwarrior06/hangifutbolcu/raw/master/images/fblanding.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://www.google.com"><img src="https://github.com/webwarrior06/hangifutbolcu/raw/master/images/appstore.png" 
+alt="Mağazaya gidin" width="200" height="62"/></a>
 
-### Markdown
+### Açıklama
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fotoğraftaki futbolcuyu tanıyabildin mi? Kendine güveniyorsan denemeye ne dersin? Fenerbahçe formasını terletmiş yüzlerce yıldız isim bu oyunda. Bazılarını belki unutmuş olabilirsin ama oyunda yer alan Jokerler ve İpuçları hatırlamana yardımcı olacak. Unutma sorular gittikçe zorlaşacak ve yüksek bir puan almak istiyorsan aynı zamanda hızlı da olmalısın. 20 soruyu doğru cevapla ve en yüksek puanı al. 
 
-```markdown
-Syntax highlighted code block
+Bu arada 7 Yıldız almak o kadar da kolay değil. Bu başarı sadece en iyiler için. Eğer efsane bir Fenerbahçe taraftaysan bu senin için çok zor olmayacaktır.
 
-# Header 1
-## Header 2
-### Header 3
+Her Fenerbahçe taraftarının mutlaka indirmesi gereken çok güzel bir Spor Bilgi Yarışması. Üstelik ilerleyen versiyonlarda sürprizler sizleri bekliyor.
 
-- Bulleted
-- List
+Son derece sade ve göze hoş gelen tasarımıyla bu güzel oyunu siz değerli Fenerbahçe taraftarının kullanımına tamamen ücretsiz olarak sunduk.
 
-1. Numbered
-2. List
+### Destek ve İletişim
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/webwarrior06/hangifutbolcu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Uygulama ile ilgili yaşadığınız herhangi bir problemi veya görüş ve önerilerinizi icatstudios@outlook.com adresi üzerinden bizimle paylaşabilirsiniz.
