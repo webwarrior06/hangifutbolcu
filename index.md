@@ -4,8 +4,10 @@
 
 ![Image](https://github.com/webwarrior06/hangifutbolcu/raw/master/images/fblanding.PNG)
 
+<p align="right">
 <a href="https://itunes.apple.com/us/app"><img src="https://github.com/webwarrior06/hangifutbolcu/raw/master/images/appstore.png" 
 alt="Mağazaya gidin" width="200" height="62"/></a>
+</p>
 
 ### Açıklama
 
