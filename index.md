@@ -3,8 +3,10 @@
 ### Uygulama içi görüntüler
 ![Image](https://github.com/webwarrior06/hangifutbolcu/raw/master/images/fblanding.PNG)
 
-<a href="https://www.google.com"><img src="https://github.com/webwarrior06/hangifutbolcu/raw/master/images/appstore.png" 
+<p align="center">
+<a href="https://itunes.apple.com/us/app"><img src="https://github.com/webwarrior06/hangifutbolcu/raw/master/images/appstore.png" 
 alt="Mağazaya gidin" width="200" height="62"/></a>
+</p>
 
 ### Açıklama
 
@@ -19,3 +21,8 @@ Son derece sade ve göze hoş gelen tasarımıyla bu güzel oyunu siz değerli F
 ### Destek ve İletişim
 
 Uygulama ile ilgili yaşadığınız herhangi bir problemi veya görüş ve önerilerinizi icatstudios@outlook.com adresi üzerinden bizimle paylaşabilirsiniz.
+
+
+<p align="center">
+© iCatStudios 2018
+</p>
